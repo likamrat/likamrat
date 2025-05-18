@@ -43,11 +43,9 @@ I'm a passionate developer and technology enthusiast. Welcome to my GitHub profi
 </p>
 
 ## 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/liorkamrat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px"/></a>
-  <a href="https://www.youtube.com/@azurearcjumpstart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" style="margin-right: 10px"/></a>
-  <a href="mailto:lior@liorkamrat.io" style="text-decoration: none; margin-right: 10px">✉️</a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/liorkamrat/)
+- 📺 [YouTube](https://www.youtube.com/@azurearcjumpstart)
+- ✉️ [Email](mailto:lior@liorkamrat.io)
 
 ---
 
