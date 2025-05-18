@@ -43,10 +43,8 @@ I'm a passionate developer and technology enthusiast. Welcome to my GitHub profi
 </p>
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/liorkamrat/)
-- 📺 [YouTube](https://www.youtube.com/@azurearcjumpstart)
-- ✉️ [Email](mailto:lior@liorkamrat.io)
+- 💼 <a href="https://www.linkedin.com/in/liorkamrat/" target="_blank">LinkedIn</a>
+- 📺 <a href="https://www.youtube.com/@azurearcjumpstart" target="_blank">YouTube</a>
+- ✉️ <a href="mailto:lior@liorkamrat.io">Email</a>
 
 ---
-
-⭐️ From [likamrat](https://github.com/likamrat)
