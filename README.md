@@ -44,9 +44,9 @@ I'm a passionate developer and technology enthusiast. Welcome to my GitHub profi
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/liorkamrat/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px"/></a>
-  <a href="https://www.youtube.com/@azurearcjumpstart" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="YouTube" height="30" width="30" style="margin-right: 10px"/></a>
-  <a href="mailto:lior@liorkamrat.io"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30"/></a>
+  <a href="https://www.linkedin.com/in/liorkamrat/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px; filter: invert(1)"/></a>
+  <a href="https://www.youtube.com/@azurearcjumpstart" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="YouTube" height="30" width="30" style="margin-right: 10px; filter: invert(1)"/></a>
+  <a href="mailto:lior@liorkamrat.io"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30" style="filter: invert(1)"/></a>
 </p>
 
 ---
