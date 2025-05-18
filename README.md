@@ -42,9 +42,9 @@ I'm a passionate developer and technology enthusiast. Welcome to my GitHub profi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likamrat&layout=compact&theme=radical" alt="likamrat's top languages" />
 </p>
 
-## 🔗 Connect with Me
-- 💼 <a href="https://www.linkedin.com/in/liorkamrat/" target="_blank">LinkedIn</a>
-- 📺 <a href="https://www.youtube.com/@azurearcjumpstart" target="_blank">YouTube</a>
-- ✉️ <a href="mailto:lior@liorkamrat.io">Email</a>
+## 🔗 Connect with Me (External Links)
+- 💼 [LinkedIn](https://www.linkedin.com/in/liorkamrat/)
+- 📺 [YouTube](https://www.youtube.com/@azurearcjumpstart)
+- ✉️ [Email](mailto:lior@liorkamrat.io)
 
 ---
