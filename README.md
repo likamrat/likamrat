@@ -1,50 +1,19 @@
-# Hi there, I'm Lior 👋
+# Hi, I'm Lior
 
-## About Me
+I'm a hands-on technical architect at Microsoft, working across distributed systems, cloud, edge, and AI. I enjoy making complex systems easier to build and run through automation.
 
-I'm a passionate developer and technology enthusiast. Welcome to my GitHub profile!
+These days, I focus on AI agents, inference platforms, and model evals. I architect MCP servers and Agent Skills across different agent frameworks. Developer experience and developer relations are a big part of my work, through open-source collaboration, technical content, and public speaking.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and improving my skills
-- 👯 I'm looking to collaborate on interesting open source projects
-- 💬 Ask me about cloud technologies, DevOps, and software development
+## Projects and resources
 
-## 🛠️ Skills & Technologies
+- [Agent Skills](https://github.com/likamrat/skills) - Workflows for AI agents, including customer discovery, evaluation, and technical readouts.
+- [Arc Jumpstart](https://jumpstart.azure.com/) - An open-source program I created for cloud and edge deployment automation and hands-on learning. [Source code](https://github.com/microsoft/azure_arc).
 
-<p align="left">
-  <!-- Cloud Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  
-  <!-- Container & Orchestration -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  
-  <!-- Infrastructure & Configuration -->
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-  
-  <!-- Programming & Scripting -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" alt="powershell" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/gnubash.svg" alt="bash" width="40" height="40" style="filter: invert(1)"/>
-  
-  <!-- Other Technologies -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+## Writing
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=likamrat&show_icons=true&theme=radical" alt="likamrat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likamrat&layout=compact&theme=radical" alt="likamrat's top languages" />
-</p>
+- [Architectural Learnings from building analytics, data-driven agent](https://www.linkedin.com/pulse/architectural-learnings-from-building-analytics-agent-lior-kamrat-vo0bc)
+- [Agentic data analytics - from plausible answers to trustworthy answers](https://www.linkedin.com/pulse/agentic-data-analytics-from-plausible-answers-lior-kamrat-zxmpc)
 
-## 🔗 Connect with Me (External Links)
-- 💼 [LinkedIn](https://www.linkedin.com/in/liorkamrat/)
-- 📺 [YouTube](https://www.youtube.com/@azurearcjumpstart)
-- ✉️ [Email](mailto:lior@liorkamrat.io)
+## Connect
 
----
+[LinkedIn](https://www.linkedin.com/in/liorkamrat/) | [YouTube](https://www.youtube.com/@azurearcjumpstart) | [Email](mailto:kamrat9@gmail.com)
